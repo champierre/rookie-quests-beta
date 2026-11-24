@@ -1,4 +1,5 @@
 {
   "app": "Northwind Lunch",
-  "language": "en"
+  "language": "en",
+  "version": "1.0"
 }
